@@ -1,0 +1,47 @@
+gBoardModelStr: W12_ADCKEY
+retro: tasks/task_content.c, content_load, 273 deinit(will reinit later)
+lang=2
+Thread(599) set SCHED_RR
+Thread(599) bound to cpu: 3
+Thread(605) set SCHED_RR
+Thread(605) bound to cpu: 0
+Set video mode: 762x432
+arm_release_ver of this libMali is r7p0-00rel0, rk_so_ver is '2', built at '10:34:14', on 'Dec  6 2018'. 
+ret = 0 Using connector: 62
+InputInvertedSort = 1
+udev_joypad_init /sys/devices/platform/0gpio-keys/input/input3 devnode(null)
+udev_joypad_init /sys/devices/platform/0gpio-keys/input/input3/event3 devnode/dev/input/event3
+udev_joypad_init /sys/devices/platform/0gpio-keys/input/input3/js2 devnode/dev/input/js2
+udev_joypad_init /sys/devices/platform/adc-keys/input/input2 devnode(null)
+udev_joypad_init /sys/devices/platform/adc-keys/input/input2/event2 devnode/dev/input/event2
+udev_joypad_init /sys/devices/platform/adc-keys/input/input2/js1 devnode/dev/input/js1
+udev_joypad_init /sys/devices/platform/i2c-keys/input/input0 devnode(null)
+udev_joypad_init /sys/devices/platform/i2c-keys/input/input0/event0 devnode/dev/input/event0
+udev_joypad_init /sys/devices/platform/i2c-keys/input/input0/js0 devnode/dev/input/js0
+Using alsa device:default
+Thread(611) set SCHED_RR
+Thread(611) bound to cpu: 1
+menu retro: retroarch.c, runloop_check_state, 2931
+menu retro: retroarch.c, runloop_check_state, 2931
+retro: command.c, command_event, 1995 quit
+png_namebuff=-----
+Taking a screenshot before exiting...
+shotname=Pokemon - Crystal Version (USA Europe) (Rev A).png------
+shotname=images/Pokemon - Crystal Version (USA Europe) (Rev A).png------
+png_namebuff=/storage/roms/gbc/images/Pokemon - Crystal Version (USA Europe) (Rev A).png------
+retro: retroarch.c, runloop_check_state, 2759
+retro: retroarch.c, runloop_iterate, 3468 quit
+retro: command.c, command_event, 1995 quit
+retro: frontend/frontend.c, rarch_main, 198 loop quit
+retro:= retroarch.c, rarch_ctl, 1625 quit deinit
+Unloading game..
+Unloading core..
+retro: core_impl.c, core_unload, 460 exit
+retro: core_impl.c, core_unload, 462 exit
+retro: core_impl.c, core_unload, 464 exit
+Unloading core symbols..
+retro: retroarch.c, rarch_ctl, 1628 exit
+retro: retroarch.c, rarch_ctl, 1631 exit
+retro: retroarch.c, rarch_ctl, 1635 exit
+retro: retroarch.c, rarch_ctl, 1642 exit
+retro: frontend/frontend.c, main_exit, 132 exit

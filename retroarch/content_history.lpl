@@ -1,0 +1,558 @@
+/storage/roms/gbc/Pokemon - Crystal Version (USA Europe) (Rev A).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/gbc/Frogger 2 (USA).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/gbc/Elmo's ABCs (USA).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/nes/Bigfoot (USA).zip
+
+/mnt/sdcard/cores/nestopia_libretro.so
+Nestopia
+
+
+/storage/roms/nes/Arkanoid (J) (PT-BR).zip
+
+/mnt/sdcard/cores/nestopia_libretro.so
+Nestopia
+
+
+/storage/roms/nes/25th Anniversary Super Mario Bros. (Europe) (Promo Virtual Console).zip
+
+/mnt/sdcard/cores/nestopia_libretro.so
+Nestopia
+
+
+/storage/roms/gba/Backyard Baseball (USA).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/n64/Lode Runner 3-D (USA).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/megadrive/zz中国象棋1版.zip
+
+/mnt/sdcard/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/storage/roms/megadrive/zz抓鬼大师2版.zip
+
+/mnt/sdcard/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/storage/roms/ngpc/SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan).zip
+
+/mnt/sdcard/cores/mednafen_ngp_libretro.so
+Beetle NeoPop
+
+
+/storage/roms/n64/WWF世界摔跤联盟 狂热摔跤2000(美版).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/Wipeout 64 (USA).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/Rat Attack! (USA) (En,Fr,De,Es,It,Nl).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/Super Smash Bros. (USA).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/Turok - Dinosaur Hunter (USA) (Rev B).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/Resident Evil 2 (U).z64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/1080 Snowboarding (Japan, USA) (En,Ja).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/psx/resident evil 3.img
+
+/mnt/sdcard/cores/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/n64/Mario Kart 64 (USA).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/n64/FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/psx/Metal Gear Solid (USA) (Disc 1) (Rev 1).chd
+
+/mnt/sdcard/cores/pcsx_rearmed_chd_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/psx/Pepsiman (Japan).chd
+
+/mnt/sdcard/cores/pcsx_rearmed_chd_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/psx/TwistedMetal3.PBP
+
+/mnt/sdcard/cores/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/n64/Super Mario 64 (USA).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/atari5200/H.E.R.O. (USA).zip
+
+/mnt/sdcard/cores/a5200_libretro.so
+a5200
+
+
+/storage/roms/atari2600/Air Raid (USA).a26
+
+/mnt/sdcard/cores/stella_libretro.so
+Stella
+
+
+/storage/roms/mame/argusg.zip
+
+/mnt/sdcard/cores/mame2003_plus_libretro.so
+MAME 2003-Plus
+
+
+/storage/roms/fbneo/megaman2.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/multchmpk.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps1/kov.zip
+
+/mnt/sdcard/cores/fbalpha_libretro.so
+FB Alpha
+
+
+/storage/roms/atari7800/Centipede (USA).a78
+
+/mnt/sdcard/cores/prosystem_libretro.so
+ProSystem
+
+
+/storage/roms/atari5200/Ballblazer (USA).zip
+
+/mnt/sdcard/cores/a5200_libretro.so
+a5200
+
+
+/storage/roms/atari2600/A-Team  The (USA) (Proto).a26
+
+/mnt/sdcard/cores/stella_libretro.so
+Stella
+
+
+/storage/roms/mame/tdragon.zip
+
+/mnt/sdcard/cores/mame2003_plus_libretro.so
+MAME 2003-Plus
+
+
+/storage/roms/fbneo/1942.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/kf2k2mp2.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps2/olds.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps3/mainsnk.zip
+
+/mnt/sdcard/cores/mame2016_libretro.so
+MAME 2016
+
+
+/storage/roms/arcade/kof96ae.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/ad2083.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/psx/Tekken 2.chd
+
+/mnt/sdcard/cores/pcsx_rearmed_chd_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/sfc/Top Gear (Europe).sfc
+
+/mnt/sdcard/cores/stella_libretro_other.so
+Snes9x 2005 Plus
+
+
+/storage/roms/sfc/Top Gear (USA).sfc
+
+/mnt/sdcard/cores/stella_libretro_other.so
+Snes9x 2005 Plus
+
+
+/storage/roms/snes/Top Gear (USA).zip
+
+/mnt/sdcard/cores/stella_libretro_other.so
+Snes9x 2005 Plus
+
+
+/storage/roms/arcade/kof96.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/mslugx.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/kf2k2plc.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/kof99.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/psx/Driver (Europe).img
+
+/mnt/sdcard/cores/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/ngpc/Baseball Stars Color (World) (EnJa).zip
+
+/mnt/sdcard/cores/mednafen_ngp_libretro.so
+Beetle NeoPop
+
+
+/storage/roms/megadrive/6-Pak (USA).zip
+
+/mnt/sdcard/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/storage/roms/gamegear/Addams Family The (World).zip
+
+/mnt/sdcard/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/storage/roms/genesis/Aaahh!!! Real Monsters.zip
+
+/mnt/sdcard/cores/genesis_plus_gx_libretro.so
+Genesis Plus GX
+
+
+/storage/roms/gba/2006 FIFA World Cup - Germany 2006 (USAEurope) (En Fr De Es It).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/gbc/1942 (USA Europe).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/n64/Doom 64 (Europe).n64
+
+/mnt/sdcard/cores/mupen64plus_libretro.so
+Mupen64Plus GLES2
+
+
+/storage/roms/snes/Championship Pool (USA).zip
+
+/mnt/sdcard/cores/snes9x_libretro.so
+Snes9x 2002
+
+
+/storage/roms/sfc/2020 Super Baseball (USA).sfc
+
+/mnt/sdcard/cores/snes9x_libretro.so
+Snes9x 2002
+
+
+/storage/roms/gb/Addams Family The (USA).zip
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/nesh/Super Plumber (hack version).nes
+
+/mnt/sdcard/cores/nestopia_libretro.so
+Nestopia
+
+
+/storage/roms/pcengine/Aero Blasters (Japan).zip
+
+/mnt/sdcard/cores/mednafen_pce_fast_libretro.so
+Beetle PCE Fast
+
+
+/storage/roms/cps3/shogwarr.zip
+
+/mnt/sdcard/cores/mame2016_libretro.so
+MAME 2016
+
+
+/storage/roms/cps1/kovsh.zip
+
+/mnt/sdcard/cores/fbalpha_libretro.so
+FB Alpha
+
+
+/storage/roms/atarilynx/Alien vs Predator (USA) (Proto) (1993-12-17).zip
+
+/mnt/sdcard/cores/handy_libretro.so
+Handy
+
+
+/storage/roms/atari7800/Asteroids (USA).a78
+
+/mnt/sdcard/cores/prosystem_libretro.so
+ProSystem
+
+
+/storage/roms/atari2600/Actionauts (USA) (Proto).a26
+
+/mnt/sdcard/cores/stella_libretro.so
+Stella
+
+
+/storage/roms/mame/vandyke.zip
+
+/mnt/sdcard/cores/mame2003_plus_libretro.so
+MAME 2003-Plus
+
+
+/storage/roms/fbneo/19xx.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/kof97.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/arcade/msbingo.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/gbc/Dragon Quest 1+2.gbc
+
+/mnt/sdcard/cores/mgba_libretro.so
+mGBA
+
+
+/storage/roms/atari5200/Activision Decathlon The (USA).zip
+
+/mnt/sdcard/cores/a5200_libretro.so
+a5200
+
+
+/storage/roms/psx/恶魔城X 月下夜想曲（汉化版）.bin
+
+/mnt/sdcard/cores/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/storage/roms/ngpc/Bikkuriman 2000 - Viva! Pocket Festiva! (Japan).zip
+
+/mnt/sdcard/cores/mednafen_ngp_libretro.so
+Beetle NeoPop
+
+
+/storage/roms/cps2/dynwar.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps1/kotm.zip
+
+/mnt/sdcard/cores/fbalpha_libretro.so
+FB Alpha
+
+
+/storage/roms/atari5200/Astro Chase (USA).zip
+
+/mnt/sdcard/cores/a5200_libretro.so
+a5200
+
+
+/storage/roms/cps3/mwarr.zip
+
+/mnt/sdcard/cores/mame2016_libretro.so
+MAME 2016
+
+
+/storage/roms/cps1/kovsh.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps1/kov.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps2/olds.zip
+
+/mnt/sdcard/cores/fbalpha_libretro.so
+FB Alpha
+
+
+/storage/roms/cps2/sonson.zip
+
+/mnt/sdcard/cores/fbalpha_libretro.so
+FB Alpha
+
+
+/storage/roms/cps1/dino.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/atarilynx/A.P.B. (USA Europe).zip
+
+/mnt/sdcard/cores/handy_libretro.so
+Handy
+
+
+/storage/roms/cps1/kov.zip
+
+/mnt/sdcard/cores/fbneo_libretro.so
+FinalBurn Neo
+
+
+/storage/roms/arcade/ssf2t.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
+/storage/roms/cps3/shogwarr.zip
+
+/mnt/sdcard/cores/fbneo_libretro.so
+FinalBurn Neo
+
+
+/storage/roms/cps3/mwarr.zip
+
+/mnt/sdcard/cores/fbneo_libretro.so
+FinalBurn Neo
+
+
+/storage/roms/cps2/olds.zip
+
+/mnt/sdcard/cores/fbneo_libretro.so
+FinalBurn Neo
+
+
+/storage/roms/mame/radr.zip
+
+/mnt/sdcard/cores/mame2003_libretro.so
+MAME 2003 (0.78)
+
+
+/storage/roms/mame/sf2m2.zip
+
+/mnt/sdcard/cores/mame2003_libretro.so
+MAME 2003 (0.78)
+
+
+/storage/roms/arcade/kov.zip
+
+/mnt/sdcard/cores/fbalpha2012_libretro.so
+FB Alpha 2012
+
+
